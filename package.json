@@ -1,6 +1,6 @@
 {
   "name": "@bem/bundle",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "bem-bundle",
   "main": "lib/index.js",
   "engines": {
